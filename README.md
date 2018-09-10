@@ -1,2 +1,6 @@
 # AUTOMIC_PRACTICE
+<<<<<<< HEAD
 #CHANGES FROM NEW_BRANCH
+=======
+#AUTOMIC ADDED BY MASTER!!!!
+>>>>>>> origin
